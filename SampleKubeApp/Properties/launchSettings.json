@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SampleKubeApp": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\kube-config context"
+    }
+  }
+}
